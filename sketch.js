@@ -1,17 +1,8 @@
-/***********************************************************************************
-  MoodyMaze
-  by Scott Kildall
+// RONNIE SAINI
+// BUILT OFF OF SCOTT KILDALL'S CODE
 
-  Uses the p5.2DAdventure.js class 
-  
-------------------------------------------------------------------------------------
-	To use:
-	Add this line to the index.html
 
-  <script src="p5.2DAdventure.js"></script>
-***********************************************************************************/
 
-// adventure manager global  
 var adventureManager;
 
 // p5.play
@@ -121,7 +112,7 @@ function draw() {
     ;
   }
   else {
-    drawCharacters();
+    print("done");
   }
   
   // draw the p5.clickables, in front of the mazes but behind the sprites 
@@ -394,12 +385,12 @@ class ScenarioRoom extends PNGRoom {
       fill(255);
       textAlign(LEFT);
       textFont(headlineFont);
-      textSize(36);
+      textSize(1);
 
-      text("How do we feel?", this.drawX , 60);
+      text(".", this.drawX , 60);
 
       // title text
-      textSize(30);
+      textSize(1);
 
       text(this.titleText, this.drawX , this.drawY);
      
@@ -407,7 +398,7 @@ class ScenarioRoom extends PNGRoom {
       //text(this.titleText, width/6, height/6, this.textBoxWidth, this.textBoxHeight );
     
       textFont(bodyFont);
-      textSize(24);
+      textSize(1);
 
       text(this.bodyText, this.drawX , this.drawY + 60, width - (this.drawX*2),height - (this.drawY+100) );
       

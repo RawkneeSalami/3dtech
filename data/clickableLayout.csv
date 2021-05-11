@@ -1,13 +1,16 @@
 ID,Name,State,PNGFilename,Text,x,y,visible
 0,StartScenario,Characters,,Start Scenario,100,650,yes
-1,Start_GoomazonPays,Start,,Goomazon,100,600,yes
-2,Start_CityPays,Start,,City Government,400,600,yes
-3,Start_RaiseTaxes,Start,,Raise Taxes,700,600,yes
-4,GoomazonMoves_CityPays,GoomazonMoves,,Yes: City Pays,100,600,yes
-5,GoomazonMoves_RaiseTaxes,GoomazonMoves,,Yes: Raise Taxes,300,600,yes
-6,GoomazonMoves_BuildRival,GoomazonMoves,,Build a Rival,500,600,yes
-7,GoomazonMoves_IgnoreThem,GoomazonMoves,,Ignore Them,700,600,yes
-8,CityPays_CutTheArts,CityPays,,The Arts,100,600,yes
-9,CityPays_CutTransportation,CityPays,,Transportation,300,600,yes
-10,CityPays_CutCityWages,CityPays,,City Wages,500,600,yes
-11,CityPays_CutParks,CityPays,,Parks,700,600,yes
+1,Mg12,Start,,REJECT TECH,100,600,yes
+2,Mg5,Start,,EMBRACE IT,400,600,yes
+3,Mg14,Mg5,,Stay Legit,100,600,yes
+4,Mg6,Mg5,,Sell to Black Market,400,600,yes
+5,Mg13,Mg12,,Pay More…,200,600,yes
+6,Mg13a,Mg12,,Fire Them!,400,600,yes
+7,Mg7,Mg6,,Bitcoin,500,600,yes
+8,Mg15,Mg6,,CASH IS KING,700,600,yes
+9,Mg8,Mg7,,No,100,600,yes
+10,Mg9,Mg7,,Yes,300,600,yes
+11,Mg10,Mg9,,Pay it,500,600,yes
+12,Mg11,Mg9,,"Nah, who cares",700,600,yes
+13,Mg16,Mg14,,Pay More!,300,600,yes
+14,Mg17,Mg14,,SUE SUE SUE,700,600,yes
