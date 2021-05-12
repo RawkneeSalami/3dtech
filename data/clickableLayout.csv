@@ -1,16 +1,16 @@
 ID,Name,State,PNGFilename,Text,x,y,visible
-0,StartScenario,Characters,,Start Scenario,100,650,yes
-1,Mg12,Start,,REJECT TECH,100,600,yes
-2,Mg5,Start,,EMBRACE IT,400,600,yes
-3,Mg14,Mg5,,Stay Legit,100,600,yes
-4,Mg6,Mg5,,Sell to Black Market,400,600,yes
-5,Mg13,Mg12,,Pay More…,200,600,yes
-6,Mg13a,Mg12,,Fire Them!,400,600,yes
-7,Mg7,Mg6,,Bitcoin,500,600,yes
-8,Mg15,Mg6,,CASH IS KING,700,600,yes
-9,Mg8,Mg7,,No,100,600,yes
-10,Mg9,Mg7,,Yes,300,600,yes
-11,Mg10,Mg9,,Pay it,500,600,yes
-12,Mg11,Mg9,,"Nah, who cares",700,600,yes
-13,Mg16,Mg14,,Pay More!,300,600,yes
-14,Mg17,Mg14,,SUE SUE SUE,700,600,yes
+0,StartScenario,Characters,,Start Scenario,640,650,yes
+1,Mg12,Start,,REJECT TECH,350,625,yes
+2,Mg5,Start,,EMBRACE IT,750,625,yes
+3,Mg14,Mg5,,Stay Legit,350,625,yes
+4,Mg6,Mg5,,Sell to Black Market,750,625,yes
+5,Mg13,Mg12,,Pay More…,350,625,yes
+6,Mg13a,Mg12,,Fire Them!,750,625,yes
+7,Mg7,Mg6,,Bitcoin,350,625,yes
+8,Mg15,Mg6,,CASH IS KING,750,625,yes
+9,Mg8,Mg7,,No,350,625,yes
+10,Mg9,Mg7,,Yes,750,625,yes
+11,Mg10,Mg9,,Pay it,350,625,yes
+12,Mg11,Mg9,,"Nah, who cares",750,625,yes
+13,Mg16a,Mg14,,Pay More!,350,625,yes
+14,Mg17a,Mg14,,SUE SUE SUE,750,625,yes
