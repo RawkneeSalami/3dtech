@@ -17,7 +17,7 @@ XARTS server link
 
 https://xarts.usfca.edu/~rssaini/3dtech/index.html
 
-#The speculative tech is set in the future year of 2030.  The story takes place on launch days and this technology is unlike anything else. It has the power to make #anyone better off economically and socially, it can take make a homeless person into a business person. Businesses can now become corporations and move up into the #millions. It can also take power away from greedy corporations and give power back to the people who can print anything, thus making them have higher quality #products with less cost. 
+#	The speculative tech is set in the future year of 2030.  The story takes place on launch days and this technology is unlike anything else. It has the power to make anyone better off economically and socially, it can take make a homeless person into a business person. Businesses can now become corporations and move up into the millions. It can also take power away from greedy corporations and give power back to the people who can print anything, thus making them have higher quality products with less cost. 
 
 #	This tech also has a great effect on other communities too. It can be utilized by the black market where people can create weapons and enable greater crime and harm across the world. If used by the wrong groups a new war could take place from civil to international with the means to create any tool of destruction in anyone’s hands. Yet the poor now have a chance to become better off as new jobs are created to maintain these machines and they can make their own business too.  The middle class can push into the next layer of wealth and finally progress financially, making room for the lower classes too thus increasing the quality of life.
 	
