@@ -21,7 +21,7 @@ https://xarts.usfca.edu/~rssaini/3dtech/index.html
 
 ### Technical Details
 
-#	The overall of the repository is that is consists of the assets folder which contains the images
+#The overall of the repository is that is consists of the assets folder which contains the images
 that the program relies upon for its art style and assets. The Sketch file is where all the code is
 to make the clickable maanger to work. The data folder contains the .CSV files that are used to link/store
 path/navigation data between files so that images, clickable buttons, etc are all linked. THe index.HTML has the basics to get the website working properly.The "class ScenarioRoom extends PNGRoom {}" is what makes alot of this program tick as that draws the images in webspage based off code from the PNGRoom library. 
