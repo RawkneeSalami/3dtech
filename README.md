@@ -11,9 +11,9 @@ https://xd.adobe.com/view/4fd0e889-86d6-4b78-6ddd-5ac2fa9c08f3-39e1/?hints=off
 
 GitHub link:
 
-RawkneeSalami/3dtech (github.com)
+https://github.com/RawkneeSalami/3dtech
 
 XARTS server link
-print ANYTHING! (usfca.edu)
+https://xarts.usfca.edu/~rssaini/3dtech/index.html
 
 
