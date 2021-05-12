@@ -1,5 +1,7 @@
-# IXD Project 3 - 3D Printer Tech - Speculative Technology Scenario
-#by RONNIE SAINI
+## IXD Project 3 - 3D Printer Tech - Speculative Technology Scenario
+#### by RONNIE SAINI
+
+### Overview
 
 ADOBE XD Prototype Link:
 
@@ -16,6 +18,15 @@ https://github.com/RawkneeSalami/3dtech
 XARTS server link
 
 https://xarts.usfca.edu/~rssaini/3dtech/index.html
+
+### Technical Details
+
+#The overall of the repository is that is consists of the assets folder which contains the images
+that the program relies upon for its art style and assets. The Sketch file is where all the code is
+to make the clickable maanger to work. The data folder contains the .CSV files that are used to link/store
+path/navigation data between files so that images, clickable buttons, etc are all linked. THe index.HTML has the basics to get the website working properly.
+
+
 
 #	The speculative tech is set in the future year of 2030.  The story takes place on launch days and this technology is unlike anything else. It has the power to make anyone better off economically and socially, it can take make a homeless person into a business person. Businesses can now become corporations and move up into the millions. It can also take power away from greedy corporations and give power back to the people who can print anything, thus making them have higher quality products with less cost. 
 
